@@ -1,0 +1,14 @@
+C:\Users\g.sotgiu\source\repos\Solution3\Data\Todolist.Data.Entity\obj\Debug\net6.0\Todolist.Data.Entity.csproj.AssemblyReference.cache
+C:\Users\g.sotgiu\source\repos\Solution3\Data\Todolist.Data.Entity\obj\Debug\net6.0\Todolist.Data.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.sotgiu\source\repos\Solution3\Data\Todolist.Data.Entity\obj\Debug\net6.0\Todolist.Data.Entity.AssemblyInfoInputs.cache
+C:\Users\g.sotgiu\source\repos\Solution3\Data\Todolist.Data.Entity\obj\Debug\net6.0\Todolist.Data.Entity.AssemblyInfo.cs
+C:\Users\g.sotgiu\source\repos\Solution3\Data\Todolist.Data.Entity\obj\Debug\net6.0\Todolist.Data.Entity.csproj.CoreCompileInputs.cache
+C:\Users\g.sotgiu\source\repos\Solution3\Data\Todolist.Data.Entity\bin\Debug\net6.0\Todolist.Data.Entity.deps.json
+C:\Users\g.sotgiu\source\repos\Solution3\Data\Todolist.Data.Entity\bin\Debug\net6.0\Todolist.Data.Entity.runtimeconfig.json
+C:\Users\g.sotgiu\source\repos\Solution3\Data\Todolist.Data.Entity\bin\Debug\net6.0\Todolist.Data.Entity.dll
+C:\Users\g.sotgiu\source\repos\Solution3\Data\Todolist.Data.Entity\bin\Debug\net6.0\Todolist.Data.Entity.pdb
+C:\Users\g.sotgiu\source\repos\Solution3\Data\Todolist.Data.Entity\obj\Debug\net6.0\Todolist.Data.Entity.dll
+C:\Users\g.sotgiu\source\repos\Solution3\Data\Todolist.Data.Entity\obj\Debug\net6.0\refint\Todolist.Data.Entity.dll
+C:\Users\g.sotgiu\source\repos\Solution3\Data\Todolist.Data.Entity\obj\Debug\net6.0\Todolist.Data.Entity.pdb
+C:\Users\g.sotgiu\source\repos\Solution3\Data\Todolist.Data.Entity\obj\Debug\net6.0\Todolist.Data.Entity.genruntimeconfig.cache
+C:\Users\g.sotgiu\source\repos\Solution3\Data\Todolist.Data.Entity\obj\Debug\net6.0\ref\Todolist.Data.Entity.dll
