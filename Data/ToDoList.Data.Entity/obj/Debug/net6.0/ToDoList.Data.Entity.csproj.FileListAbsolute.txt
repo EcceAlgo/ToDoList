@@ -1,0 +1,14 @@
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Entity\bin\Debug\net6.0\ToDoList.Data.Entity.deps.json
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Entity\bin\Debug\net6.0\ToDoList.Data.Entity.runtimeconfig.json
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Entity\bin\Debug\net6.0\ToDoList.Data.Entity.dll
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Entity\bin\Debug\net6.0\ToDoList.Data.Entity.pdb
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Entity\obj\Debug\net6.0\ToDoList.Data.Entity.csproj.AssemblyReference.cache
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Entity\obj\Debug\net6.0\ToDoList.Data.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Entity\obj\Debug\net6.0\ToDoList.Data.Entity.AssemblyInfoInputs.cache
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Entity\obj\Debug\net6.0\ToDoList.Data.Entity.AssemblyInfo.cs
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Entity\obj\Debug\net6.0\ToDoList.Data.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Entity\obj\Debug\net6.0\ToDoList.Data.Entity.dll
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Entity\obj\Debug\net6.0\refint\ToDoList.Data.Entity.dll
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Entity\obj\Debug\net6.0\ToDoList.Data.Entity.pdb
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Entity\obj\Debug\net6.0\ToDoList.Data.Entity.genruntimeconfig.cache
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Entity\obj\Debug\net6.0\ref\ToDoList.Data.Entity.dll
