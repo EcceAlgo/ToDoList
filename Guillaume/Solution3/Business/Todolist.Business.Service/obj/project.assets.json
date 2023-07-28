@@ -375,6 +375,19 @@
           "bin/placeholder/Todolist.Business.Model.dll": {}
         }
       },
+      "Todolist.Business.Service.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Todolist.Business.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Todolist.Business.Service.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Todolist.Business.Service.Contract.dll": {}
+        }
+      },
       "Todolist.Data.Context.Contract/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -925,6 +938,11 @@
       "path": "../Todolist.Business.Models/Todolist.Business.Model.csproj",
       "msbuildProject": "../Todolist.Business.Models/Todolist.Business.Model.csproj"
     },
+    "Todolist.Business.Service.Contract/1.0.0": {
+      "type": "project",
+      "path": "../Todolist.Business.Service.Contract/Todolist.Business.Service.Contract.csproj",
+      "msbuildProject": "../Todolist.Business.Service.Contract/Todolist.Business.Service.Contract.csproj"
+    },
     "Todolist.Data.Context.Contract/1.0.0": {
       "type": "project",
       "path": "../../Data/Todolist.Data.Context.Contract/Todolist.Data.Context.Contract.csproj",
@@ -944,6 +962,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Todolist.Business.Mapper >= 1.0.0",
+      "Todolist.Business.Service.Contract >= 1.0.0",
       "Todolist.Data.Repository.Contract >= 1.0.0"
     ]
   },
@@ -976,6 +995,9 @@
           "projectReferences": {
             "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Mapper\\Todolist.Business.Mapper.csproj": {
               "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Mapper\\Todolist.Business.Mapper.csproj"
+            },
+            "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Service.Contract\\Todolist.Business.Service.Contract.csproj": {
+              "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Service.Contract\\Todolist.Business.Service.Contract.csproj"
             },
             "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Repository.Contract\\Todolist.Data.Repository.Contract.csproj": {
               "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Repository.Contract\\Todolist.Data.Repository.Contract.csproj"

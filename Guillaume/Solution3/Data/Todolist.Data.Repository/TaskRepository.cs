@@ -4,32 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Todolist.Data.Context.Contract;
+using Todolist.Data.Entity;
+using Todolist.Data.Repository.Contract;
 
 namespace Todolist.Data.Repository
 {
-    public class TaskRepository : GenericRepository<Task>
+    public class TaskRepository : GenericRepository<Entity.Task>,ITaskRepository
     {
         /// <summary>
-        /// 
-        /// </summary>
-        private readonly ITodolistDbContext _dBContext;
-        
-        /// <summary>
-        /// 
+        /// Initializes a new instance of the <see cref="TaskRepository"/>class.
         /// </summary>
         /// <param name="dbContext"></param>
-        public TaskRepository(ITodolistDbContext dbContext)
+        public TaskRepository(ITodolistDbContext dbContext) : base(dbContext)
         {
-            _dBContext = dbContext;
-
         }
-
-
-        //public async Task<Task> CreateTaskAsync(Task taskToAdd)
-        //{
-        //    var elementAdded = await _dBContext.Tasks.AddAsync(taskToAdd).ConfigureAwait(false);
-        //    await _dBContext.SaveChangesAsync().ConfigureAwait(false);
-        //    return elementAdded.Entity;
-        //}
     }
 }

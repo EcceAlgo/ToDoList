@@ -495,6 +495,34 @@
           "bin/placeholder/Todolist.Business.Model.dll": {}
         }
       },
+      "Todolist.Business.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Todolist.Business.Mapper": "1.0.0",
+          "Todolist.Business.Service.Contract": "1.0.0",
+          "Todolist.Data.Repository.Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Todolist.Business.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Todolist.Business.Service.dll": {}
+        }
+      },
+      "Todolist.Business.Service.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Todolist.Business.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Todolist.Business.Service.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Todolist.Business.Service.Contract.dll": {}
+        }
+      },
       "Todolist.Data.Context/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1442,6 +1470,16 @@
       "path": "../../Business/Todolist.Business.Models/Todolist.Business.Model.csproj",
       "msbuildProject": "../../Business/Todolist.Business.Models/Todolist.Business.Model.csproj"
     },
+    "Todolist.Business.Service/1.0.0": {
+      "type": "project",
+      "path": "../../Business/Todolist.Business.Service/Todolist.Business.Service.csproj",
+      "msbuildProject": "../../Business/Todolist.Business.Service/Todolist.Business.Service.csproj"
+    },
+    "Todolist.Business.Service.Contract/1.0.0": {
+      "type": "project",
+      "path": "../../Business/Todolist.Business.Service.Contract/Todolist.Business.Service.Contract.csproj",
+      "msbuildProject": "../../Business/Todolist.Business.Service.Contract/Todolist.Business.Service.Contract.csproj"
+    },
     "Todolist.Data.Context/1.0.0": {
       "type": "project",
       "path": "../../Data/Todolist.Data.Context/Todolist.Data.Context.csproj",
@@ -1473,6 +1511,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 6.0.20",
       "Swashbuckle.AspNetCore >= 6.5.0",
       "Todolist.Business.Mapper >= 1.0.0",
+      "Todolist.Business.Service >= 1.0.0",
+      "Todolist.Business.Service.Contract >= 1.0.0",
       "Todolist.Data.Context >= 1.0.0",
       "Todolist.Data.Entity >= 1.0.0",
       "Todolist.Data.Repository >= 1.0.0",
@@ -1509,6 +1549,12 @@
           "projectReferences": {
             "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Mapper\\Todolist.Business.Mapper.csproj": {
               "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Mapper\\Todolist.Business.Mapper.csproj"
+            },
+            "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Service.Contract\\Todolist.Business.Service.Contract.csproj": {
+              "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Service.Contract\\Todolist.Business.Service.Contract.csproj"
+            },
+            "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Service\\Todolist.Business.Service.csproj": {
+              "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Service\\Todolist.Business.Service.csproj"
             },
             "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Context\\Todolist.Data.Context.csproj": {
               "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Context\\Todolist.Data.Context.csproj"

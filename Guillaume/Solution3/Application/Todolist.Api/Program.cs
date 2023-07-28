@@ -1,5 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using System.Reflection;
+using Todolist.Business.Service;
+using Todolist.Business.Service.Contract;
 using Todolist.Data.Context;
 using Todolist.Data.Context.Contract;
 using Todolist.Data.Repository;
@@ -22,9 +25,13 @@ builder.Services.AddDbContext<ITodolistDbContext, TodolistDbContext>(
 
 //Dependance injection
 builder.Services.AddScoped<ITaskRepository, TaskRepository>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
 
+builder.Services.AddScoped<IUserService, UserService>();
 
 builder.Services.AddControllers();
+
+builder.Services.AddAutoMapper(Assembly.Load("Todolist.Business.Mapper"));
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
