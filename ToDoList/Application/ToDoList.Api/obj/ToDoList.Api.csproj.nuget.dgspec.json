@@ -79,6 +79,65 @@
         }
       }
     },
+    "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Context.Contract\\ToDoList.Data.Context.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Context.Contract\\ToDoList.Data.Context.Contract.csproj",
+        "projectName": "ToDoList.Data.Context.Contract",
+        "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Context.Contract\\ToDoList.Data.Context.Contract.csproj",
+        "packagesPath": "C:\\Users\\anemi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Context.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Entity\\ToDoList.Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Entity\\ToDoList.Data.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Context\\ToDoList.Data.Context.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -103,6 +162,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Context.Contract\\ToDoList.Data.Context.Contract.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Context.Contract\\ToDoList.Data.Context.Contract.csproj"
+              },
               "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Entity\\ToDoList.Data.Entity.csproj": {
                 "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Entity\\ToDoList.Data.Entity.csproj"
               }

@@ -94,6 +94,16 @@ namespace ToDoList.Api.Migrations
                     b.HasKey("UserId");
 
                     b.ToTable("Users");
+
+                    b.HasData(
+                        new
+                        {
+                            UserId = 1,
+                            Email = "maried@test.com",
+                            FirstName = "Marie",
+                            LastName = "Dupont",
+                            Password = "123456"
+                        });
                 });
 
             modelBuilder.Entity("ToDoList.Data.Entity.Task", b =>

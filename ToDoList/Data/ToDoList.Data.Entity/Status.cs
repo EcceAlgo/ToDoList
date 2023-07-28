@@ -15,5 +15,7 @@ namespace ToDoList.Data.Entity
         public int StatusId { get; set; }
         public string Value { get; set; }
         public virtual ICollection<Task>? Tasks { get; set; }
+
+        //on ne recupere pas le task dans le status
     }
 }

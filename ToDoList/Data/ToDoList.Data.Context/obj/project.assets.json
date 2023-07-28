@@ -311,6 +311,19 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
+      "ToDoList.Data.Context.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ToDoList.Data.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ToDoList.Data.Context.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ToDoList.Data.Context.Contract.dll": {}
+        }
+      },
       "ToDoList.Data.Entity/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -726,6 +739,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "ToDoList.Data.Context.Contract/1.0.0": {
+      "type": "project",
+      "path": "../ToDoList.Data.Context.Contract/ToDoList.Data.Context.Contract.csproj",
+      "msbuildProject": "../ToDoList.Data.Context.Contract/ToDoList.Data.Context.Contract.csproj"
+    },
     "ToDoList.Data.Entity/1.0.0": {
       "type": "project",
       "path": "../ToDoList.Data.Entity/ToDoList.Data.Entity.csproj",
@@ -734,6 +752,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "ToDoList.Data.Context.Contract >= 1.0.0",
       "ToDoList.Data.Entity >= 1.0.0"
     ]
   },
@@ -764,6 +783,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Context.Contract\\ToDoList.Data.Context.Contract.csproj": {
+              "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Context.Contract\\ToDoList.Data.Context.Contract.csproj"
+            },
             "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Entity\\ToDoList.Data.Entity.csproj": {
               "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Entity\\ToDoList.Data.Entity.csproj"
             }

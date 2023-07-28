@@ -435,6 +435,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "ToDoList.Data.Context.Contract": "1.0.0",
           "ToDoList.Data.Entity": "1.0.0"
         },
         "compile": {
@@ -442,6 +443,19 @@
         },
         "runtime": {
           "bin/placeholder/ToDoList.Data.Context.dll": {}
+        }
+      },
+      "ToDoList.Data.Context.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ToDoList.Data.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ToDoList.Data.Context.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ToDoList.Data.Context.Contract.dll": {}
         }
       },
       "ToDoList.Data.Entity/1.0.0": {
@@ -1019,6 +1033,11 @@
       "type": "project",
       "path": "../../Data/ToDoList.Data.Context/ToDoList.Data.Context.csproj",
       "msbuildProject": "../../Data/ToDoList.Data.Context/ToDoList.Data.Context.csproj"
+    },
+    "ToDoList.Data.Context.Contract/1.0.0": {
+      "type": "project",
+      "path": "../../Data/ToDoList.Data.Context.Contract/ToDoList.Data.Context.Contract.csproj",
+      "msbuildProject": "../../Data/ToDoList.Data.Context.Contract/ToDoList.Data.Context.Contract.csproj"
     },
     "ToDoList.Data.Entity/1.0.0": {
       "type": "project",
