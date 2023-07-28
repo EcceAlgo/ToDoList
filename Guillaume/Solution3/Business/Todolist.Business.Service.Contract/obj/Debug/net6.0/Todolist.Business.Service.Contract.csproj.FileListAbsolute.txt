@@ -1,0 +1,15 @@
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Service.Contract\bin\Debug\net6.0\Todolist.Business.Service.Contract.deps.json
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Service.Contract\bin\Debug\net6.0\Todolist.Business.Service.Contract.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Service.Contract\bin\Debug\net6.0\Todolist.Business.Service.Contract.pdb
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Service.Contract\bin\Debug\net6.0\Todolist.Business.Model.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Service.Contract\bin\Debug\net6.0\Todolist.Business.Model.pdb
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Service.Contract\obj\Debug\net6.0\Todolist.Business.Service.Contract.csproj.AssemblyReference.cache
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Service.Contract\obj\Debug\net6.0\Todolist.Business.Service.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Service.Contract\obj\Debug\net6.0\Todolist.Business.Service.Contract.AssemblyInfoInputs.cache
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Service.Contract\obj\Debug\net6.0\Todolist.Business.Service.Contract.AssemblyInfo.cs
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Service.Contract\obj\Debug\net6.0\Todolist.Business.Service.Contract.csproj.CoreCompileInputs.cache
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Service.Contract\obj\Debug\net6.0\Todolist.Business.Service.Contract.csproj.CopyComplete
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Service.Contract\obj\Debug\net6.0\Todolist.Business.Service.Contract.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Service.Contract\obj\Debug\net6.0\refint\Todolist.Business.Service.Contract.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Service.Contract\obj\Debug\net6.0\Todolist.Business.Service.Contract.pdb
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Service.Contract\obj\Debug\net6.0\ref\Todolist.Business.Service.Contract.dll

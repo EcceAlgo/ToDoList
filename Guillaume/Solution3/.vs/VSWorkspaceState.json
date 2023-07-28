@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Application",
+    "\\Application\\Todolist.Api",
+    "\\Data",
+    "\\Data\\Todolist.Data.Entity"
+  ],
+  "SelectedNode": "\\Data\\Todolist.Data.Entity\\Status.cs",
+  "PreviewInSolutionExplorer": false
+}

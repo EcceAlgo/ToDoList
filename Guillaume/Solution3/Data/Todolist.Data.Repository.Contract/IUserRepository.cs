@@ -11,6 +11,11 @@ namespace Todolist.Data.Repository.Contract
 {
     public interface IUserRepository : IGenericRepository<User>
     {
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="firstName"></param>
+        /// <returns></returns>
+        Task<List<User>> GetUserByName(string firstName);
     }
 }

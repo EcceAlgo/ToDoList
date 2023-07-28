@@ -15,12 +15,13 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Business\Todolist.Business.Mapper\Todolist.Business.Mapper.csproj" />
+    <ProjectReference Include="..\..\Business\Todolist.Business.Service.Contract\Todolist.Business.Service.Contract.csproj" />
+    <ProjectReference Include="..\..\Business\Todolist.Business.Service\Todolist.Business.Service.csproj" />
     <ProjectReference Include="..\..\Data\Todolist.Data.Context\Todolist.Data.Context.csproj" />
     <ProjectReference Include="..\..\Data\Todolist.Data.Entity\Todolist.Data.Entity.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\..\Data\Todolist.Data.Repository.Contract\Todolist.Data.Repository.Contract.csproj" />
+    <ProjectReference Include="..\..\Data\Todolist.Data.Repository\Todolist.Data.Repository.csproj" />
   </ItemGroup>
 
 </Project>

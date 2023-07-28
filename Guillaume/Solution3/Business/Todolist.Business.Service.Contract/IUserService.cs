@@ -9,6 +9,10 @@ namespace Todolist.Business.Service.Contract
 {
     public interface IUserService
     {
-        Task<List<ReadUserDto>> GetUsers()
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
+        Task<List<ReadUserDto>> GetUsersAsync();
     }
 }

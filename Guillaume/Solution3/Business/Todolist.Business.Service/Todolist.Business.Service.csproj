@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Data\Todolist.Data.Repository.Contract\Todolist.Data.Repository.Contract.csproj" />
+    <ProjectReference Include="..\Todolist.Business.Mapper\Todolist.Business.Mapper.csproj" />
+    <ProjectReference Include="..\Todolist.Business.Service.Contract\Todolist.Business.Service.Contract.csproj" />
+  </ItemGroup>
+
 </Project>

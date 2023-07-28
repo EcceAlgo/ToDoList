@@ -1,0 +1,12 @@
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Models\bin\Debug\net6.0\Todolist.Business.Model.deps.json
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Models\bin\Debug\net6.0\Todolist.Business.Model.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Models\bin\Debug\net6.0\Todolist.Business.Model.pdb
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Models\obj\Debug\net6.0\Todolist.Business.Model.csproj.AssemblyReference.cache
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Models\obj\Debug\net6.0\Todolist.Business.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Models\obj\Debug\net6.0\Todolist.Business.Model.AssemblyInfoInputs.cache
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Models\obj\Debug\net6.0\Todolist.Business.Model.AssemblyInfo.cs
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Models\obj\Debug\net6.0\Todolist.Business.Model.csproj.CoreCompileInputs.cache
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Models\obj\Debug\net6.0\Todolist.Business.Model.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Models\obj\Debug\net6.0\refint\Todolist.Business.Model.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Models\obj\Debug\net6.0\Todolist.Business.Model.pdb
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Models\obj\Debug\net6.0\ref\Todolist.Business.Model.dll

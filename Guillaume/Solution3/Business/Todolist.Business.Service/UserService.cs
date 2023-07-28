@@ -27,7 +27,7 @@ namespace Todolist.Business.Service
         /// 
         /// </summary>
         /// <returns></returns>
-        public async Task<List<ReadUserDto>> GetUsers()
+        public async Task<List<ReadUserDto>> GetUsersAsync()
         {
             var users = await _userRepository.GetAllAsync().ConfigureAwait(false);
             return _mapper.Map<List<ReadUserDto>>(users);

@@ -74,7 +74,6 @@ C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Appli
 C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\obj\Debug\net6.0\Todolist.Api.AssemblyInfoInputs.cache
 C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\obj\Debug\net6.0\Todolist.Api.AssemblyInfo.cs
 C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\obj\Debug\net6.0\Todolist.Api.csproj.CoreCompileInputs.cache
-C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\obj\Debug\net6.0\Todolist.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\obj\Debug\net6.0\Todolist.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\obj\Debug\net6.0\staticwebassets\msbuild.Todolist.Api.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Todolist.Api.props
@@ -92,3 +91,17 @@ C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Appli
 C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\obj\Debug\net6.0\ref\Todolist.Api.dll
 C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\bin\Debug\net6.0\Todolist.Data.Context.Contract.dll
 C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\bin\Debug\net6.0\Todolist.Data.Context.Contract.pdb
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\bin\Debug\net6.0\Todolist.Business.Mapper.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\bin\Debug\net6.0\Todolist.Business.Model.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\bin\Debug\net6.0\Todolist.Business.Service.Contract.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\bin\Debug\net6.0\Todolist.Business.Service.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\bin\Debug\net6.0\Todolist.Data.Repository.Contract.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\bin\Debug\net6.0\Todolist.Data.Repository.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\bin\Debug\net6.0\Todolist.Business.Mapper.pdb
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\bin\Debug\net6.0\Todolist.Business.Service.Contract.pdb
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\bin\Debug\net6.0\Todolist.Business.Service.pdb
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\bin\Debug\net6.0\Todolist.Data.Repository.Contract.pdb
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\bin\Debug\net6.0\Todolist.Data.Repository.pdb
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\bin\Debug\net6.0\Todolist.Business.Model.pdb

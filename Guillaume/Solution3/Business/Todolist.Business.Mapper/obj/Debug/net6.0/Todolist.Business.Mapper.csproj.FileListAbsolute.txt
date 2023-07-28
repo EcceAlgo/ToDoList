@@ -1,0 +1,17 @@
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Mapper\bin\Debug\net6.0\Todolist.Business.Mapper.deps.json
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Mapper\bin\Debug\net6.0\Todolist.Business.Mapper.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Mapper\bin\Debug\net6.0\Todolist.Business.Mapper.pdb
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Mapper\bin\Debug\net6.0\Todolist.Business.Model.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Mapper\bin\Debug\net6.0\Todolist.Data.Entity.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Mapper\bin\Debug\net6.0\Todolist.Data.Entity.pdb
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Mapper\bin\Debug\net6.0\Todolist.Business.Model.pdb
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Mapper\obj\Debug\net6.0\Todolist.Business.Mapper.csproj.AssemblyReference.cache
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Mapper\obj\Debug\net6.0\Todolist.Business.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Mapper\obj\Debug\net6.0\Todolist.Business.Mapper.AssemblyInfoInputs.cache
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Mapper\obj\Debug\net6.0\Todolist.Business.Mapper.AssemblyInfo.cs
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Mapper\obj\Debug\net6.0\Todolist.Business.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Mapper\obj\Debug\net6.0\Todolist.Business.Mapper.csproj.CopyComplete
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Mapper\obj\Debug\net6.0\Todolist.Business.Mapper.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Mapper\obj\Debug\net6.0\refint\Todolist.Business.Mapper.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Mapper\obj\Debug\net6.0\Todolist.Business.Mapper.pdb
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Business\Todolist.Business.Mapper\obj\Debug\net6.0\ref\Todolist.Business.Mapper.dll

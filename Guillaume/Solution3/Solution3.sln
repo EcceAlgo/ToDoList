@@ -21,6 +21,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todolist.Data.Repository.Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todolist.Data.Repository", "Data\Todolist.Data.Repository\Todolist.Data.Repository.csproj", "{46C79457-19ED-426F-9117-9BEE6428092E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{ACD95BC2-2224-4F5A-8887-2971A639EDF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todolist.Business.Service", "Business\Todolist.Business.Service\Todolist.Business.Service.csproj", "{F32E2CFA-8CE8-4D0C-A5D0-769AD7FF8B44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todolist.Business.Service.Contract", "Business\Todolist.Business.Service.Contract\Todolist.Business.Service.Contract.csproj", "{A756888D-2584-4677-BF88-6D5317738A68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todolist.Business.Model", "Business\Todolist.Business.Models\Todolist.Business.Model.csproj", "{6B8EDDE2-72CC-4872-A3E7-364FB698B129}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todolist.Business.Mapper", "Business\Todolist.Business.Mapper\Todolist.Business.Mapper.csproj", "{45C39DBA-FFF2-41EE-AFE0-413A2171BA49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +61,22 @@ Global
 		{46C79457-19ED-426F-9117-9BEE6428092E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46C79457-19ED-426F-9117-9BEE6428092E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46C79457-19ED-426F-9117-9BEE6428092E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32E2CFA-8CE8-4D0C-A5D0-769AD7FF8B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32E2CFA-8CE8-4D0C-A5D0-769AD7FF8B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32E2CFA-8CE8-4D0C-A5D0-769AD7FF8B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32E2CFA-8CE8-4D0C-A5D0-769AD7FF8B44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A756888D-2584-4677-BF88-6D5317738A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A756888D-2584-4677-BF88-6D5317738A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A756888D-2584-4677-BF88-6D5317738A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A756888D-2584-4677-BF88-6D5317738A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8EDDE2-72CC-4872-A3E7-364FB698B129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8EDDE2-72CC-4872-A3E7-364FB698B129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8EDDE2-72CC-4872-A3E7-364FB698B129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8EDDE2-72CC-4872-A3E7-364FB698B129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45C39DBA-FFF2-41EE-AFE0-413A2171BA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C39DBA-FFF2-41EE-AFE0-413A2171BA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C39DBA-FFF2-41EE-AFE0-413A2171BA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C39DBA-FFF2-41EE-AFE0-413A2171BA49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +88,10 @@ Global
 		{8F2F2964-214E-465D-9BD9-B82F8AE12368} = {6DFD28C1-768F-4117-A3BC-FB3E6D7FCAE2}
 		{EF35F252-D40D-4951-9E98-34B0AC8FF1DE} = {6DFD28C1-768F-4117-A3BC-FB3E6D7FCAE2}
 		{46C79457-19ED-426F-9117-9BEE6428092E} = {6DFD28C1-768F-4117-A3BC-FB3E6D7FCAE2}
+		{F32E2CFA-8CE8-4D0C-A5D0-769AD7FF8B44} = {ACD95BC2-2224-4F5A-8887-2971A639EDF5}
+		{A756888D-2584-4677-BF88-6D5317738A68} = {ACD95BC2-2224-4F5A-8887-2971A639EDF5}
+		{6B8EDDE2-72CC-4872-A3E7-364FB698B129} = {ACD95BC2-2224-4F5A-8887-2971A639EDF5}
+		{45C39DBA-FFF2-41EE-AFE0-413A2171BA49} = {ACD95BC2-2224-4F5A-8887-2971A639EDF5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {30EA9D5A-80CA-4806-B460-624C92C00853}

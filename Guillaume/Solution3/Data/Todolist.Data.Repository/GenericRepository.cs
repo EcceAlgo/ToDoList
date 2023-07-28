@@ -19,7 +19,7 @@ namespace Todolist.Data.Repository
         /// <summary>
         /// 
         /// </summary>
-        private readonly DbSet<Entity> _table;
+        protected readonly DbSet<Entity> _table;
 
             /// <summary>
             /// Initialize new instance of the <see cref="GenericRepository"/> class
