@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Todolist.Business.Model.Users
 {
-    internal class CreateUserDto
+    public class CreateUserDto
     {
+        public string Prénom { get; set; }
+        public string Nom { get; set; }
+        public string Courriel { get; set; }
+        public string Mdp { get; set; }
     }
 }

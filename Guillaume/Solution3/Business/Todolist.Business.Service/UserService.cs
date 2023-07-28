@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Todolist.Business.Model.Users;
 using Todolist.Business.Service.Contract;
+using Todolist.Data.Entity;
 using Todolist.Data.Repository.Contract;
 
 namespace Todolist.Business.Service
@@ -31,6 +32,13 @@ namespace Todolist.Business.Service
         {
             var users = await _userRepository.GetAllAsync().ConfigureAwait(false);
             return _mapper.Map<List<ReadUserDto>>(users);
+        }
+
+        public async Task<ReadUserDto> CreateUserAsync(CreateUserDto user)
+        {
+            var userEntity = _mapper.Map<User>(user);
+            var userCreated =  await _userRepository.CreateElementAsync(userEntity).ConfigureAwait(false);
+            return _mapper.Map<ReadUserDto>(userCreated);
         }
 
     }

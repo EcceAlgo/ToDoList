@@ -14,5 +14,12 @@ namespace Todolist.Business.Service.Contract
         /// </summary>
         /// <returns></returns>
         Task<List<ReadUserDto>> GetUsersAsync();
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="user"></param>
+        /// <returns></returns>
+        Task<ReadUserDto> CreateUserAsync(CreateUserDto user);
     }
 }

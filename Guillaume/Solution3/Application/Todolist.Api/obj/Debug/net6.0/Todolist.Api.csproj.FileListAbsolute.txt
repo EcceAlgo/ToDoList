@@ -105,3 +105,4 @@ C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Appli
 C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\bin\Debug\net6.0\Todolist.Data.Repository.Contract.pdb
 C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\bin\Debug\net6.0\Todolist.Data.Repository.pdb
 C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\bin\Debug\net6.0\Todolist.Business.Model.pdb
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Application\Todolist.Api\obj\Debug\net6.0\Todolist.Api.MvcApplicationPartsAssemblyInfo.cs
