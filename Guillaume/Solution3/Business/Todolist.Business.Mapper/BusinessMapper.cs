@@ -22,7 +22,6 @@ namespace Todolist.Business.Mapper
 
             CreateMap<User, ReadUserDto>()
                 .ForMember(dest => dest.Id, src => src.MapFrom(x => x.UserId))
-                .ForMember(dest => dest.Tache, src => src.MapFrom(x => x.Tasks))
                 .IncludeBase<User, CreateUserDto>()
                 .ReverseMap();
         }
