@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Todolist.Data.Context.Contract\Todolist.Data.Context.Contract.csproj" />
     <ProjectReference Include="..\Todolist.Data.Entity\Todolist.Data.Entity.csproj" />
   </ItemGroup>
 

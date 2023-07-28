@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Todolist.Data.Context.Contract\Todolist.Data.Context.Contract.csproj" />
+    <ProjectReference Include="..\Todolist.Data.Repository.Contract\Todolist.Data.Repository.Contract.csproj" />
+  </ItemGroup>
+
+</Project>

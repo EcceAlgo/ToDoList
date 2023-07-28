@@ -1,13 +1,16 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Todolist.Data.Context;
+using Todolist.Data.Context.Contract;
+using Todolist.Data.Repository;
+using Todolist.Data.Repository.Contract;
 
 var builder = WebApplication.CreateBuilder(args);
 var configuration = builder.Configuration;
 
 // Add services to the container.
 string connectionString = configuration.GetConnectionString("BddConnection");
-builder.Services.AddDbContext<TodolistDbContext>(
+builder.Services.AddDbContext<ITodolistDbContext, TodolistDbContext>(
     options => options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString),
     mySqlOptions =>
     {
@@ -16,6 +19,9 @@ builder.Services.AddDbContext<TodolistDbContext>(
     .LogTo(Console.WriteLine, LogLevel.Information)
     .EnableSensitiveDataLogging()
     .EnableDetailedErrors());
+
+//Dependance injection
+builder.Services.AddScoped<ITaskRepository, TaskRepository>();
 
 
 builder.Services.AddControllers();

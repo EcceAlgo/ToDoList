@@ -20,7 +20,7 @@ namespace Todolist.Data.Entity
         public virtual ICollection<Task>? Tasks { get; set; }
         public User()
         {
-            Tasks = new HashSet<Task>();
+            Tasks = new List<Task>();
         }
     }
 }

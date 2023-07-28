@@ -5,11 +5,12 @@ using System.Linq;
 using System.Runtime.Intrinsics.X86;
 using System.Text;
 using System.Threading.Tasks;
+using Todolist.Data.Context.Contract;
 using Todolist.Data.Entity;
 
 namespace Todolist.Data.Context
 {
-    public class TodolistDbContext : DbContext
+    public class TodolistDbContext : DbContext, ITodolistDbContext
     {
         public TodolistDbContext()
         {
@@ -25,5 +26,18 @@ namespace Todolist.Data.Context
         public virtual DbSet<Entity.Task> Tasks { get; set; }
 
         public virtual DbSet<Status> Statuses { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            var User = new User()
+            {
+                UserId = 1,
+                FirstName = "salut",
+                LastName = "aurevoir",
+                Email = "salut@coucou.fr",
+                Password = "1234",
+            };
+            modelBuilder.Entity<User>().HasData(User);
+        }
     }
 }

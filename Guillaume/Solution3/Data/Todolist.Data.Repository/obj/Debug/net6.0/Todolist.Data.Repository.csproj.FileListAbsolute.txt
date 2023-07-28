@@ -1,0 +1,5 @@
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Repository\obj\Debug\net6.0\Todolist.Data.Repository.csproj.AssemblyReference.cache
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Repository\obj\Debug\net6.0\Todolist.Data.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Repository\obj\Debug\net6.0\Todolist.Data.Repository.AssemblyInfoInputs.cache
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Repository\obj\Debug\net6.0\Todolist.Data.Repository.AssemblyInfo.cs
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Repository\obj\Debug\net6.0\Todolist.Data.Repository.csproj.CoreCompileInputs.cache

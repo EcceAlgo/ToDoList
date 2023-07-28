@@ -791,11 +791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj",
       "projectName": "Todolist.Data.Entity",
-      "projectPath": "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj",
+      "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj",
       "packagesPath": "C:\\Users\\g.sotgiu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Data\\Todolist.Data.Entity\\obj\\",
+      "outputPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\g.sotgiu\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "HeQ6IgtWllLLsI94/kT3CZ4mAh2yz8zTdMvgRseIid7HlGuPkcre9MBEi0DQxlmteE+3vykhKDAtwJmuCXg5oQ==",
+  "dgSpecHash": "RaoqbV5rwwbWE8/M+DU0wGIZWNkKYSby4JB8HAUN1wZPQ6FTGbF5YfWqGSC7adt/92Hxp0Jb6tAwOrhPx4Itfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Application\\Todolist.Api\\Todolist.Api.csproj",
+  "projectFilePath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Application\\Todolist.Api\\Todolist.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\g.sotgiu\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\g.sotgiu\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\g.sotgiu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\g.sotgiu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\g.sotgiu\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.20\\microsoft.entityframeworkcore.6.0.20.nupkg.sha512",
     "C:\\Users\\g.sotgiu\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.20\\microsoft.entityframeworkcore.abstractions.6.0.20.nupkg.sha512",
     "C:\\Users\\g.sotgiu\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.20\\microsoft.entityframeworkcore.analyzers.6.0.20.nupkg.sha512",

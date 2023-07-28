@@ -1,0 +1,15 @@
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Context.Contract\bin\Debug\net6.0\Todolist.Data.Context.Contract.deps.json
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Context.Contract\bin\Debug\net6.0\Todolist.Data.Context.Contract.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Context.Contract\bin\Debug\net6.0\Todolist.Data.Context.Contract.pdb
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Context.Contract\bin\Debug\net6.0\Todolist.Data.Entity.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Context.Contract\bin\Debug\net6.0\Todolist.Data.Entity.pdb
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Context.Contract\obj\Debug\net6.0\Todolist.Data.Context.Contract.csproj.AssemblyReference.cache
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Context.Contract\obj\Debug\net6.0\Todolist.Data.Context.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Context.Contract\obj\Debug\net6.0\Todolist.Data.Context.Contract.AssemblyInfoInputs.cache
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Context.Contract\obj\Debug\net6.0\Todolist.Data.Context.Contract.AssemblyInfo.cs
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Context.Contract\obj\Debug\net6.0\Todolist.Data.Context.Contract.csproj.CoreCompileInputs.cache
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Context.Contract\obj\Debug\net6.0\Todolist.Data.Context.Contract.csproj.CopyComplete
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Context.Contract\obj\Debug\net6.0\Todolist.Data.Context.Contract.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Context.Contract\obj\Debug\net6.0\refint\Todolist.Data.Context.Contract.dll
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Context.Contract\obj\Debug\net6.0\Todolist.Data.Context.Contract.pdb
+C:\Users\g.sotgiu\Desktop\Nouveau dossier (2)\ToDoList\Guillaume\Solution3\Data\Todolist.Data.Context.Contract\obj\Debug\net6.0\ref\Todolist.Data.Context.Contract.dll

@@ -9,11 +9,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{6DFD28C1-7
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{D8BC70CD-1401-43BB-A662-F8518FF3D43A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todolist.Api", "Application\Todolist.Api\Todolist.Api.csproj", "{7AD9B9DE-F8E4-4060-B598-E328663F81E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todolist.Api", "Application\Todolist.Api\Todolist.Api.csproj", "{7AD9B9DE-F8E4-4060-B598-E328663F81E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todolist.Data.Entity", "Data\Todolist.Data.Entity\Todolist.Data.Entity.csproj", "{D6184732-96D4-4473-9B1E-6D9B92AB1B7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todolist.Data.Entity", "Data\Todolist.Data.Entity\Todolist.Data.Entity.csproj", "{D6184732-96D4-4473-9B1E-6D9B92AB1B7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todolist.Data.Context", "Data\Todolist.Data.Context\Todolist.Data.Context.csproj", "{F2384F99-71A6-42D9-83BC-825529438B1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todolist.Data.Context", "Data\Todolist.Data.Context\Todolist.Data.Context.csproj", "{F2384F99-71A6-42D9-83BC-825529438B1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todolist.Data.Context.Contract", "Data\Todolist.Data.Context.Contract\Todolist.Data.Context.Contract.csproj", "{8F2F2964-214E-465D-9BD9-B82F8AE12368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todolist.Data.Repository.Contract", "Data\Todolist.Data.Repository.Contract\Todolist.Data.Repository.Contract.csproj", "{EF35F252-D40D-4951-9E98-34B0AC8FF1DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todolist.Data.Repository", "Data\Todolist.Data.Repository\Todolist.Data.Repository.csproj", "{46C79457-19ED-426F-9117-9BEE6428092E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{F2384F99-71A6-42D9-83BC-825529438B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2384F99-71A6-42D9-83BC-825529438B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2384F99-71A6-42D9-83BC-825529438B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F2F2964-214E-465D-9BD9-B82F8AE12368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2F2964-214E-465D-9BD9-B82F8AE12368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2F2964-214E-465D-9BD9-B82F8AE12368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2F2964-214E-465D-9BD9-B82F8AE12368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF35F252-D40D-4951-9E98-34B0AC8FF1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF35F252-D40D-4951-9E98-34B0AC8FF1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF35F252-D40D-4951-9E98-34B0AC8FF1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF35F252-D40D-4951-9E98-34B0AC8FF1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C79457-19ED-426F-9117-9BEE6428092E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C79457-19ED-426F-9117-9BEE6428092E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C79457-19ED-426F-9117-9BEE6428092E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C79457-19ED-426F-9117-9BEE6428092E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +59,9 @@ Global
 		{7AD9B9DE-F8E4-4060-B598-E328663F81E3} = {D3D1FD6E-5A8C-4A24-9CC1-BC5D8E303774}
 		{D6184732-96D4-4473-9B1E-6D9B92AB1B7B} = {6DFD28C1-768F-4117-A3BC-FB3E6D7FCAE2}
 		{F2384F99-71A6-42D9-83BC-825529438B1A} = {6DFD28C1-768F-4117-A3BC-FB3E6D7FCAE2}
+		{8F2F2964-214E-465D-9BD9-B82F8AE12368} = {6DFD28C1-768F-4117-A3BC-FB3E6D7FCAE2}
+		{EF35F252-D40D-4951-9E98-34B0AC8FF1DE} = {6DFD28C1-768F-4117-A3BC-FB3E6D7FCAE2}
+		{46C79457-19ED-426F-9117-9BEE6428092E} = {6DFD28C1-768F-4117-A3BC-FB3E6D7FCAE2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {30EA9D5A-80CA-4806-B460-624C92C00853}

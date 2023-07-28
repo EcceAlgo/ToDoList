@@ -221,10 +221,19 @@
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
       "Todolist.Data.Context/1.0.0": {
         "dependencies": {
+          "Todolist.Data.Context.Contract": "1.0.0",
           "Todolist.Data.Entity": "1.0.0"
         },
         "runtime": {
           "Todolist.Data.Context.dll": {}
+        }
+      },
+      "Todolist.Data.Context.Contract/1.0.0": {
+        "dependencies": {
+          "Todolist.Data.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Todolist.Data.Context.Contract.dll": {}
         }
       },
       "Todolist.Data.Entity/1.0.0": {
@@ -427,6 +436,11 @@
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
     },
     "Todolist.Data.Context/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Todolist.Data.Context.Contract/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -18,7 +18,7 @@ namespace Todolist.Data.Entity
         public DateTime CreatedDate { get; set; }
         public DateTime DueDate { get; set; }
         public int UserId { get; set; }
-        public virtual Task User { get; set; }
+        public virtual User User { get; set; }
         public int StatusId { get; set; }
         public virtual Status Status { get; set; }
 

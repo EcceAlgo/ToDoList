@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Application\\Todolist.Api\\Todolist.Api.csproj": {}
+    "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Application\\Todolist.Api\\Todolist.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Application\\Todolist.Api\\Todolist.Api.csproj": {
+    "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Application\\Todolist.Api\\Todolist.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Application\\Todolist.Api\\Todolist.Api.csproj",
+        "projectUniqueName": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Application\\Todolist.Api\\Todolist.Api.csproj",
         "projectName": "Todolist.Api",
-        "projectPath": "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Application\\Todolist.Api\\Todolist.Api.csproj",
+        "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Application\\Todolist.Api\\Todolist.Api.csproj",
         "packagesPath": "C:\\Users\\g.sotgiu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Application\\Todolist.Api\\obj\\",
+        "outputPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Application\\Todolist.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\g.sotgiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,20 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Data\\Todolist.Data.Context\\Todolist.Data.Context.csproj": {
-                "projectPath": "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Data\\Todolist.Data.Context\\Todolist.Data.Context.csproj"
+              "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Mapper\\Todolist.Business.Mapper.csproj": {
+                "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Mapper\\Todolist.Business.Mapper.csproj"
               },
-              "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj": {
-                "projectPath": "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj"
+              "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Context\\Todolist.Data.Context.csproj": {
+                "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Context\\Todolist.Data.Context.csproj"
+              },
+              "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj"
+              },
+              "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Repository.Contract\\Todolist.Data.Repository.Contract.csproj": {
+                "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Repository.Contract\\Todolist.Data.Repository.Contract.csproj"
+              },
+              "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Repository\\Todolist.Data.Repository.csproj": {
+                "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Repository\\Todolist.Data.Repository.csproj"
               }
             }
           }
@@ -82,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Data\\Todolist.Data.Context\\Todolist.Data.Context.csproj": {
+    "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Mapper\\Todolist.Business.Mapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Data\\Todolist.Data.Context\\Todolist.Data.Context.csproj",
-        "projectName": "Todolist.Data.Context",
-        "projectPath": "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Data\\Todolist.Data.Context\\Todolist.Data.Context.csproj",
+        "projectUniqueName": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Mapper\\Todolist.Business.Mapper.csproj",
+        "projectName": "Todolist.Business.Mapper",
+        "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Mapper\\Todolist.Business.Mapper.csproj",
         "packagesPath": "C:\\Users\\g.sotgiu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Data\\Todolist.Data.Context\\obj\\",
+        "outputPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Mapper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\g.sotgiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -106,8 +115,135 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj": {
-                "projectPath": "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj"
+              "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Models\\Todolist.Business.Model.csproj": {
+                "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Models\\Todolist.Business.Model.csproj"
+              },
+              "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Models\\Todolist.Business.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Models\\Todolist.Business.Model.csproj",
+        "projectName": "Todolist.Business.Model",
+        "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Models\\Todolist.Business.Model.csproj",
+        "packagesPath": "C:\\Users\\g.sotgiu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Business\\Todolist.Business.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\g.sotgiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Context.Contract\\Todolist.Data.Context.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Context.Contract\\Todolist.Data.Context.Contract.csproj",
+        "projectName": "Todolist.Data.Context.Contract",
+        "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Context.Contract\\Todolist.Data.Context.Contract.csproj",
+        "packagesPath": "C:\\Users\\g.sotgiu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Context.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\g.sotgiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj"
               }
             }
           }
@@ -141,14 +277,76 @@
         }
       }
     },
-    "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj": {
+    "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Context\\Todolist.Data.Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj",
-        "projectName": "Todolist.Data.Entity",
-        "projectPath": "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Context\\Todolist.Data.Context.csproj",
+        "projectName": "Todolist.Data.Context",
+        "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Context\\Todolist.Data.Context.csproj",
         "packagesPath": "C:\\Users\\g.sotgiu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\g.sotgiu\\source\\repos\\Solution3\\Data\\Todolist.Data.Entity\\obj\\",
+        "outputPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\g.sotgiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Context.Contract\\Todolist.Data.Context.Contract.csproj": {
+                "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Context.Contract\\Todolist.Data.Context.Contract.csproj"
+              },
+              "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj",
+        "projectName": "Todolist.Data.Entity",
+        "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Entity\\Todolist.Data.Entity.csproj",
+        "packagesPath": "C:\\Users\\g.sotgiu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\g.sotgiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -192,6 +390,127 @@
               "version": "[6.0.2, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Repository.Contract\\Todolist.Data.Repository.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Repository.Contract\\Todolist.Data.Repository.Contract.csproj",
+        "projectName": "Todolist.Data.Repository.Contract",
+        "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Repository.Contract\\Todolist.Data.Repository.Contract.csproj",
+        "packagesPath": "C:\\Users\\g.sotgiu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Repository.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\g.sotgiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Context.Contract\\Todolist.Data.Context.Contract.csproj": {
+                "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Context.Contract\\Todolist.Data.Context.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Repository\\Todolist.Data.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Repository\\Todolist.Data.Repository.csproj",
+        "projectName": "Todolist.Data.Repository",
+        "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Repository\\Todolist.Data.Repository.csproj",
+        "packagesPath": "C:\\Users\\g.sotgiu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\g.sotgiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Context.Contract\\Todolist.Data.Context.Contract.csproj": {
+                "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Context.Contract\\Todolist.Data.Context.Contract.csproj"
+              },
+              "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Repository.Contract\\Todolist.Data.Repository.Contract.csproj": {
+                "projectPath": "C:\\Users\\g.sotgiu\\Desktop\\Nouveau dossier (2)\\ToDoList\\Guillaume\\Solution3\\Data\\Todolist.Data.Repository.Contract\\Todolist.Data.Repository.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
