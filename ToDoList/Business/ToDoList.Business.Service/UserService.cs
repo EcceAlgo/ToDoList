@@ -15,15 +15,18 @@ namespace ToDoList.Business.Service
         /// </summary>
         private readonly IUserRepository _userRepository;
 
-        private readonly IMapper _mapper
+        private readonly IMapper _mapper;
 
         /// <summary>
         /// Initialise une nouvelle instance de UserService
         /// </summary>
         /// <param name="userRepository"></param>
-        public UserService (IUserRepository userRepository)
+        public UserService (IUserRepository userRepository, IMapper mapper)
         {
             _userRepository = userRepository;
+            _mapper = mapper;
         }
+
+
     }
 }

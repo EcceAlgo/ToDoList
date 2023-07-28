@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ToDoList.Business.Model.Users
 {
-    internal class ReadUserDto
+    public class ReadUserDto
     {
     }
 }

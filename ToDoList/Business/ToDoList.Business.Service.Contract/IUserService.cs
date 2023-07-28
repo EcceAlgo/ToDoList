@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ToDoList.Business.Service.Contract
 {
-    internal class IUserService
+    public class IUserService
     {
     }
 }
