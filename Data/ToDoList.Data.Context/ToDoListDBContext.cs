@@ -1,15 +1,16 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using ToDoList.Data.Context.Contract;
 using ToDoList.Data.Entity;
 
 namespace ToDoList.Data.Context
 {
-    public class ToDoListDBContext : DbContext
+    public class ToDoListDbContext : DbContext, IToDoListDbContext
     {
-        public ToDoListDBContext() 
+        public ToDoListDbContext() 
         { 
         }
 
-        public ToDoListDBContext(DbContextOptions<ToDoListDBContext> options) 
+        public ToDoListDbContext(DbContextOptions<ToDoListDbContext> options) 
             : base(options) 
         {
         }

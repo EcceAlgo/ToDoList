@@ -9,11 +9,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{31FA0EEE-0
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{C77AF058-3E1D-473A-B404-9226393A5CF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Api", "Application\ToDoList.Api\ToDoList.Api.csproj", "{482AB463-7549-4EFC-9274-9474C3E4AB13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoList.Api", "Application\ToDoList.Api\ToDoList.Api.csproj", "{482AB463-7549-4EFC-9274-9474C3E4AB13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Data.Entity", "Data\ToDoList.Data.Entity\ToDoList.Data.Entity.csproj", "{169312EF-6B33-4701-ABA1-0F32A261ED7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoList.Data.Entity", "Data\ToDoList.Data.Entity\ToDoList.Data.Entity.csproj", "{169312EF-6B33-4701-ABA1-0F32A261ED7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Data.Context", "Data\ToDoList.Data.Context\ToDoList.Data.Context.csproj", "{9FA053B9-BA19-40E8-971B-CF233B62C50C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoList.Data.Context", "Data\ToDoList.Data.Context\ToDoList.Data.Context.csproj", "{9FA053B9-BA19-40E8-971B-CF233B62C50C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Data.Context.Contract", "Data\ToDoList.Data.Context.Contract\ToDoList.Data.Context.Contract.csproj", "{98788DA5-8298-4E45-8E09-ED7C91C3E0F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Data.Repository", "Data\ToDoList.Data.Repository\ToDoList.Data.Repository.csproj", "{14FF2523-F911-4A57-B19D-E546809DC777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Data.Repository.Contract", "Data\ToDoList.Data.Repository.Contract\ToDoList.Data.Repository.Contract.csproj", "{1CB8C47C-375B-4C9D-A160-DDA80B533E8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{9FA053B9-BA19-40E8-971B-CF233B62C50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FA053B9-BA19-40E8-971B-CF233B62C50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FA053B9-BA19-40E8-971B-CF233B62C50C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98788DA5-8298-4E45-8E09-ED7C91C3E0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98788DA5-8298-4E45-8E09-ED7C91C3E0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98788DA5-8298-4E45-8E09-ED7C91C3E0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98788DA5-8298-4E45-8E09-ED7C91C3E0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14FF2523-F911-4A57-B19D-E546809DC777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FF2523-F911-4A57-B19D-E546809DC777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FF2523-F911-4A57-B19D-E546809DC777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FF2523-F911-4A57-B19D-E546809DC777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CB8C47C-375B-4C9D-A160-DDA80B533E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB8C47C-375B-4C9D-A160-DDA80B533E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB8C47C-375B-4C9D-A160-DDA80B533E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB8C47C-375B-4C9D-A160-DDA80B533E8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +59,9 @@ Global
 		{482AB463-7549-4EFC-9274-9474C3E4AB13} = {8447A5D0-C32B-4C38-9B64-AA1F55010F49}
 		{169312EF-6B33-4701-ABA1-0F32A261ED7C} = {31FA0EEE-08AA-4B62-BB96-7AE1DDD0AEDC}
 		{9FA053B9-BA19-40E8-971B-CF233B62C50C} = {31FA0EEE-08AA-4B62-BB96-7AE1DDD0AEDC}
+		{98788DA5-8298-4E45-8E09-ED7C91C3E0F6} = {31FA0EEE-08AA-4B62-BB96-7AE1DDD0AEDC}
+		{14FF2523-F911-4A57-B19D-E546809DC777} = {31FA0EEE-08AA-4B62-BB96-7AE1DDD0AEDC}
+		{1CB8C47C-375B-4C9D-A160-DDA80B533E8D} = {31FA0EEE-08AA-4B62-BB96-7AE1DDD0AEDC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4843173C-7D50-4FB0-A281-FF6F1C6FEE1C}

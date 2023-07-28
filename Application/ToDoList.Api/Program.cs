@@ -1,12 +1,13 @@
 using Microsoft.EntityFrameworkCore;
 using ToDoList.Data.Context;
+using ToDoList.Data.Context.Contract;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("BddConnection");
 
-builder.Services.AddDbContext<ToDoListDBContext>
+builder.Services.AddDbContext<IToDoListDbContext, ToDoListDbContext>
     (options => options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString),
     mySqlOptions =>
     {
