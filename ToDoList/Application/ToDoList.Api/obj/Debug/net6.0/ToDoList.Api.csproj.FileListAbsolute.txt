@@ -44,3 +44,9 @@ C:\Users\anemi\Documents\CDA simplon\CodeFirst\ToDoList\ToDoList\Application\ToD
 C:\Users\anemi\Documents\CDA simplon\CodeFirst\ToDoList\ToDoList\Application\ToDoList.Api\obj\Debug\net6.0\ToDoList.Api.pdb
 C:\Users\anemi\Documents\CDA simplon\CodeFirst\ToDoList\ToDoList\Application\ToDoList.Api\obj\Debug\net6.0\ToDoList.Api.genruntimeconfig.cache
 C:\Users\anemi\Documents\CDA simplon\CodeFirst\ToDoList\ToDoList\Application\ToDoList.Api\obj\Debug\net6.0\ref\ToDoList.Api.dll
+C:\Users\anemi\Documents\CDA simplon\CodeFirst\ToDoList\ToDoList\Application\ToDoList.Api\bin\Debug\net6.0\ToDoList.Data.Context.Contract.dll
+C:\Users\anemi\Documents\CDA simplon\CodeFirst\ToDoList\ToDoList\Application\ToDoList.Api\bin\Debug\net6.0\ToDoList.Data.Repository.Contract.dll
+C:\Users\anemi\Documents\CDA simplon\CodeFirst\ToDoList\ToDoList\Application\ToDoList.Api\bin\Debug\net6.0\ToDoList.Data.Repository.dll
+C:\Users\anemi\Documents\CDA simplon\CodeFirst\ToDoList\ToDoList\Application\ToDoList.Api\bin\Debug\net6.0\ToDoList.Data.Repository.Contract.pdb
+C:\Users\anemi\Documents\CDA simplon\CodeFirst\ToDoList\ToDoList\Application\ToDoList.Api\bin\Debug\net6.0\ToDoList.Data.Repository.pdb
+C:\Users\anemi\Documents\CDA simplon\CodeFirst\ToDoList\ToDoList\Application\ToDoList.Api\bin\Debug\net6.0\ToDoList.Data.Context.Contract.pdb

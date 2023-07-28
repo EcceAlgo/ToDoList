@@ -13,3 +13,5 @@ C:\Users\anemi\Documents\CDA simplon\CodeFirst\ToDoList\ToDoList\Data\ToDoList.D
 C:\Users\anemi\Documents\CDA simplon\CodeFirst\ToDoList\ToDoList\Data\ToDoList.Data.Context\obj\Debug\net6.0\refint\ToDoList.Data.Context.dll
 C:\Users\anemi\Documents\CDA simplon\CodeFirst\ToDoList\ToDoList\Data\ToDoList.Data.Context\obj\Debug\net6.0\ToDoList.Data.Context.pdb
 C:\Users\anemi\Documents\CDA simplon\CodeFirst\ToDoList\ToDoList\Data\ToDoList.Data.Context\obj\Debug\net6.0\ref\ToDoList.Data.Context.dll
+C:\Users\anemi\Documents\CDA simplon\CodeFirst\ToDoList\ToDoList\Data\ToDoList.Data.Context\bin\Debug\net6.0\ToDoList.Data.Context.Contract.dll
+C:\Users\anemi\Documents\CDA simplon\CodeFirst\ToDoList\ToDoList\Data\ToDoList.Data.Context\bin\Debug\net6.0\ToDoList.Data.Context.Contract.pdb

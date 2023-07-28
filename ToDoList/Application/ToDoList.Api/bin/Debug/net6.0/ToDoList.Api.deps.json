@@ -10,7 +10,9 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": "6.0.20",
           "Swashbuckle.AspNetCore": "6.2.3",
-          "ToDoList.Data.Context": "1.0.0"
+          "ToDoList.Data.Context": "1.0.0",
+          "ToDoList.Data.Repository": "1.0.0",
+          "ToDoList.Data.Repository.Contract": "1.0.0"
         },
         "runtime": {
           "ToDoList.Api.dll": {}
@@ -220,10 +222,19 @@
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
       "ToDoList.Data.Context/1.0.0": {
         "dependencies": {
+          "ToDoList.Data.Context.Contract": "1.0.0",
           "ToDoList.Data.Entity": "1.0.0"
         },
         "runtime": {
           "ToDoList.Data.Context.dll": {}
+        }
+      },
+      "ToDoList.Data.Context.Contract/1.0.0": {
+        "dependencies": {
+          "ToDoList.Data.Entity": "1.0.0"
+        },
+        "runtime": {
+          "ToDoList.Data.Context.Contract.dll": {}
         }
       },
       "ToDoList.Data.Entity/1.0.0": {
@@ -232,6 +243,23 @@
         },
         "runtime": {
           "ToDoList.Data.Entity.dll": {}
+        }
+      },
+      "ToDoList.Data.Repository/1.0.0": {
+        "dependencies": {
+          "ToDoList.Data.Context.Contract": "1.0.0",
+          "ToDoList.Data.Repository.Contract": "1.0.0"
+        },
+        "runtime": {
+          "ToDoList.Data.Repository.dll": {}
+        }
+      },
+      "ToDoList.Data.Repository.Contract/1.0.0": {
+        "dependencies": {
+          "ToDoList.Data.Context.Contract": "1.0.0"
+        },
+        "runtime": {
+          "ToDoList.Data.Repository.Contract.dll": {}
         }
       }
     }
@@ -429,7 +457,22 @@
       "serviceable": false,
       "sha512": ""
     },
+    "ToDoList.Data.Context.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "ToDoList.Data.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ToDoList.Data.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ToDoList.Data.Repository.Contract/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

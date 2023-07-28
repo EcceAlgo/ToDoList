@@ -15,11 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoList.Data.Entity", "Dat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoList.Data.Context", "Data\ToDoList.Data.Context\ToDoList.Data.Context.csproj", "{AC106660-BB75-455C-A459-6ABF79272231}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Data.Context.Contract", "Data\ToDoList.Data.Context.Contract\ToDoList.Data.Context.Contract.csproj", "{5BA04CCF-E635-4C43-A631-38E4D71760EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoList.Data.Context.Contract", "Data\ToDoList.Data.Context.Contract\ToDoList.Data.Context.Contract.csproj", "{5BA04CCF-E635-4C43-A631-38E4D71760EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Data.Repository", "Data\ToDoList.Data.Repository\ToDoList.Data.Repository.csproj", "{791D36F2-57A3-4EF8-9B43-0CA05BFE9F4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoList.Data.Repository", "Data\ToDoList.Data.Repository\ToDoList.Data.Repository.csproj", "{791D36F2-57A3-4EF8-9B43-0CA05BFE9F4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Data.Repository.Contract", "Data\ToDoList.Data.Repository.Contract\ToDoList.Data.Repository.Contract.csproj", "{277D6F90-DFF1-4E5F-A29D-310C82C1DB07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoList.Data.Repository.Contract", "Data\ToDoList.Data.Repository.Contract\ToDoList.Data.Repository.Contract.csproj", "{277D6F90-DFF1-4E5F-A29D-310C82C1DB07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{3F89D355-FCF1-47EB-9EE5-41434B7DC44F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,6 +64,7 @@ Global
 		{5BA04CCF-E635-4C43-A631-38E4D71760EB} = {EF08E701-3EA9-4C75-8C58-F094A679EFAD}
 		{791D36F2-57A3-4EF8-9B43-0CA05BFE9F4B} = {EF08E701-3EA9-4C75-8C58-F094A679EFAD}
 		{277D6F90-DFF1-4E5F-A29D-310C82C1DB07} = {EF08E701-3EA9-4C75-8C58-F094A679EFAD}
+		{3F89D355-FCF1-47EB-9EE5-41434B7DC44F} = {400F79DB-04FB-48AF-B8E3-B119C480B36E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D88D12CA-D3FE-4270-8BFF-39C2C08B3C97}

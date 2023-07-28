@@ -470,6 +470,33 @@
         "runtime": {
           "bin/placeholder/ToDoList.Data.Entity.dll": {}
         }
+      },
+      "ToDoList.Data.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ToDoList.Data.Context.Contract": "1.0.0",
+          "ToDoList.Data.Repository.Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ToDoList.Data.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ToDoList.Data.Repository.dll": {}
+        }
+      },
+      "ToDoList.Data.Repository.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ToDoList.Data.Context.Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ToDoList.Data.Repository.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ToDoList.Data.Repository.Contract.dll": {}
+        }
       }
     }
   },
@@ -1043,13 +1070,25 @@
       "type": "project",
       "path": "../../Data/ToDoList.Data.Entity/ToDoList.Data.Entity.csproj",
       "msbuildProject": "../../Data/ToDoList.Data.Entity/ToDoList.Data.Entity.csproj"
+    },
+    "ToDoList.Data.Repository/1.0.0": {
+      "type": "project",
+      "path": "../../Data/ToDoList.Data.Repository/ToDoList.Data.Repository.csproj",
+      "msbuildProject": "../../Data/ToDoList.Data.Repository/ToDoList.Data.Repository.csproj"
+    },
+    "ToDoList.Data.Repository.Contract/1.0.0": {
+      "type": "project",
+      "path": "../../Data/ToDoList.Data.Repository.Contract/ToDoList.Data.Repository.Contract.csproj",
+      "msbuildProject": "../../Data/ToDoList.Data.Repository.Contract/ToDoList.Data.Repository.Contract.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.EntityFrameworkCore.Design >= 6.0.20",
       "Swashbuckle.AspNetCore >= 6.2.3",
-      "ToDoList.Data.Context >= 1.0.0"
+      "ToDoList.Data.Context >= 1.0.0",
+      "ToDoList.Data.Repository >= 1.0.0",
+      "ToDoList.Data.Repository.Contract >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1082,6 +1121,12 @@
           "projectReferences": {
             "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Context\\ToDoList.Data.Context.csproj": {
               "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Context\\ToDoList.Data.Context.csproj"
+            },
+            "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Repository.Contract\\ToDoList.Data.Repository.Contract.csproj": {
+              "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Repository.Contract\\ToDoList.Data.Repository.Contract.csproj"
+            },
+            "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Repository\\ToDoList.Data.Repository.csproj": {
+              "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\CodeFirst\\ToDoList\\ToDoList\\Data\\ToDoList.Data.Repository\\ToDoList.Data.Repository.csproj"
             }
           }
         }

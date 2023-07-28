@@ -20,6 +20,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Data\ToDoList.Data.Context\ToDoList.Data.Context.csproj" />
+    <ProjectReference Include="..\..\Data\ToDoList.Data.Repository.Contract\ToDoList.Data.Repository.Contract.csproj" />
+    <ProjectReference Include="..\..\Data\ToDoList.Data.Repository\ToDoList.Data.Repository.csproj" />
   </ItemGroup>
 
 </Project>

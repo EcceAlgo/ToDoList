@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using ToDoList.Data.Context;
 using ToDoList.Data.Context.Contract;
+using ToDoList.Data.Repository;
+using ToDoList.Data.Repository.Contract;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +18,10 @@ builder.Services.AddDbContext<IToDoListDbContext, ToDoListDbContext>
         .LogTo(Console.WriteLine, LogLevel.Information)
         .EnableSensitiveDataLogging()
         .EnableDetailedErrors());
+
+// Injection des dépendences
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<ITaskRepository, TaskRepository>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

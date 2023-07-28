@@ -9,7 +9,7 @@ using ToDoList.Data.Repository.Contract;
 
 namespace ToDoList.Data.Repository
 {
-    public class GenericRepository<Entity> : IGenericRepository<Entity> where Entity : class
+    public abstract class GenericRepository<Entity> : IGenericRepository<Entity> where Entity : class
     {
         /// <summary>
         /// d b context
@@ -19,7 +19,7 @@ namespace ToDoList.Data.Repository
         /// <summary>
         /// La table
         /// </summary>
-        private readonly DbSet<Entity> _Entity;
+        protected readonly DbSet<Entity> _table;
 
         /// <summary>
         /// Initialise une nouvelle instance de GenericRepository
@@ -28,7 +28,7 @@ namespace ToDoList.Data.Repository
         public GenericRepository(IToDoListDbContext dbContext)
         {
             _dbContext = dbContext;
-            _Entity = dbContext.Set<Entity>();
+            _table = dbContext.Set<Entity>();
         }
 
         /// <summary>
@@ -36,9 +36,12 @@ namespace ToDoList.Data.Repository
         /// </summary>
         /// <param name="element"></param>
         /// <returns></returns>
-        public Task<IEnumerable<Entity>> CreateElementAsync(Entity element)
+        public async Task<Entity> CreateElementAsync(Entity element)
         {
-            throw new NotImplementedException();
+            var elementAdded = await _table.AddAsync(element).ConfigureAwait(false);
+            await _dbContext.SaveChangesAsync().ConfigureAwait(false);
+
+            return elementAdded.Entity;
         }
 
         /// <summary>
@@ -46,27 +49,30 @@ namespace ToDoList.Data.Repository
         /// </summary>
         /// <param name="element"></param>
         /// <returns></returns>
-        public Task<IEnumerable<Entity>> DeleteElementAsync(Entity element)
+        public async Task<Entity> DeleteElementAsync(Entity element)
         {
-            throw new NotImplementedException();
+            var elementDeleted = _table.Remove(element);
+            await _dbContext.SaveChangesAsync().ConfigureAwait(false);
+
+            return elementDeleted.Entity;
         }
 
         /// <summary>
         /// Cette méthode permet de récupérer la liste des elements de Entity
         /// </summary>
         /// <returns></returns>
-        public Task<IEnumerable<Entity>> GetAllAsync()
+        public async Task<IEnumerable<Entity>> GetAllAsync()
         {
-            throw new NotImplementedException();
+            return await _table.ToListAsync().ConfigureAwait(false);
         }
 
         /// <summary>
         /// Cette méthode permet de récupérer d'un element Entity par son identifiant
         /// </summary>
         /// <returns></returns>
-        public Task<IEnumerable<Entity>> GetByKeyAsync(object id)
+        public async Task<Entity> GetByKeyAsync(object id)
         {
-            throw new NotImplementedException();
+            return await _table.FindAsync(id).ConfigureAwait(false);
         }
 
         /// <summary>
@@ -74,7 +80,30 @@ namespace ToDoList.Data.Repository
         /// </summary>
         /// <param name="element"></param>
         /// <returns></returns>
-        public Task<IEnumerable<Entity>> UpdateElementAsync(Entity element)
+        public async Task<Entity> UpdateElementAsync(Entity element)
+        {
+            var elementUpdated = _table.Update(element);
+            await _dbContext.SaveChangesAsync().ConfigureAwait(false);
+
+            return elementUpdated.Entity;
+        }
+
+        Task<IEnumerable<Entity>> IGenericRepository<Entity>.CreateElementAsync(Entity element)
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<IEnumerable<Entity>> IGenericRepository<Entity>.DeleteElementAsync(Entity element)
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<IEnumerable<Entity>> IGenericRepository<Entity>.GetByKeyAsync(object id)
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<IEnumerable<Entity>> IGenericRepository<Entity>.UpdateElementAsync(Entity element)
         {
             throw new NotImplementedException();
         }

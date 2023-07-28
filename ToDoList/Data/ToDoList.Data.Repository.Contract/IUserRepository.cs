@@ -9,7 +9,14 @@ using ToDoList.Data.Entity;
 
 namespace ToDoList.Data.Repository.Contract
 {
-    public interface IUserRepository 
+    public interface IUserRepository : IGenericRepository<User>
     {
+
+        /// <summary>
+        /// Cette méthode permet de recupérer la list des users par firstName
+        /// </summary>
+        /// <param name="fistName"></param>
+        /// <returns></returns>
+        public Task<List<User>> GetUserByNameAsync(string fistName);
     }
 }
