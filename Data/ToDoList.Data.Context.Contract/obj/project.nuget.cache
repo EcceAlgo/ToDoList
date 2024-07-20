@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "52DG+6GDgoatXf1YnTzQypUOihNXk0n39mzWz4Jj3luzBB+bD32F6wmG86V11uUt/yhE8JlQ4YUELqigCAyhRQ==",
+  "dgSpecHash": "yXGCaX97VKaGDBeA5jTrYfonYSaTkiBjuJNX8IJPDUhiB9duDe352LOE1rnZg6fZFxaXPht8tf7DWM/rgeQ6Hw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Aura\\Desktop\\Simplon groupes\\ToDo List\\ToDoList\\Data\\ToDoList.Data.Context.Contract\\ToDoList.Data.Context.Contract.csproj",
   "expectedPackageFiles": [
@@ -21,7 +21,10 @@
     "C:\\Users\\Aura\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\6.0.2\\pomelo.entityframeworkcore.mysql.6.0.2.nupkg.sha512",
     "C:\\Users\\Aura\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\Aura\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
-    "C:\\Users\\Aura\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\Aura\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Aura\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Aura\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Aura\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512"
   ],
   "logs": []
 }
