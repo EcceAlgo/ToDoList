@@ -39,3 +39,5 @@ C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Application\ToDoList.Ap
 C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Application\ToDoList.Api\obj\Debug\net6.0\ToDoList.Api.pdb
 C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Application\ToDoList.Api\obj\Debug\net6.0\ToDoList.Api.genruntimeconfig.cache
 C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Application\ToDoList.Api\obj\Debug\net6.0\ref\ToDoList.Api.dll
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Application\ToDoList.Api\bin\Debug\net6.0\ToDoList.Data.Context.Contract.dll
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Application\ToDoList.Api\bin\Debug\net6.0\ToDoList.Data.Context.Contract.pdb

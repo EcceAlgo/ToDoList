@@ -13,3 +13,5 @@ C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Cont
 C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context\obj\Debug\net6.0\refint\ToDoList.Data.Context.dll
 C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context\obj\Debug\net6.0\ToDoList.Data.Context.pdb
 C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context\obj\Debug\net6.0\ref\ToDoList.Data.Context.dll
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context\bin\Debug\net6.0\ToDoList.Data.Context.Contract.dll
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context\bin\Debug\net6.0\ToDoList.Data.Context.Contract.pdb

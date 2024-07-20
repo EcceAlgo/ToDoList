@@ -1,0 +1,15 @@
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context.Contract\bin\Debug\net6.0\ToDoList.Data.Context.Contract.deps.json
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context.Contract\bin\Debug\net6.0\ToDoList.Data.Context.Contract.dll
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context.Contract\bin\Debug\net6.0\ToDoList.Data.Context.Contract.pdb
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context.Contract\bin\Debug\net6.0\ToDoList.Data.Entity.dll
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context.Contract\bin\Debug\net6.0\ToDoList.Data.Entity.pdb
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context.Contract\obj\Debug\net6.0\ToDoList.Data.Context.Contract.csproj.AssemblyReference.cache
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context.Contract\obj\Debug\net6.0\ToDoList.Data.Context.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context.Contract\obj\Debug\net6.0\ToDoList.Data.Context.Contract.AssemblyInfoInputs.cache
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context.Contract\obj\Debug\net6.0\ToDoList.Data.Context.Contract.AssemblyInfo.cs
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context.Contract\obj\Debug\net6.0\ToDoList.Data.Context.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context.Contract\obj\Debug\net6.0\ToDoList.Data.Context.Contract.csproj.CopyComplete
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context.Contract\obj\Debug\net6.0\ToDoList.Data.Context.Contract.dll
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context.Contract\obj\Debug\net6.0\refint\ToDoList.Data.Context.Contract.dll
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context.Contract\obj\Debug\net6.0\ToDoList.Data.Context.Contract.pdb
+C:\Users\Aura\Desktop\Simplon groupes\ToDo List\ToDoList\Data\ToDoList.Data.Context.Contract\obj\Debug\net6.0\ref\ToDoList.Data.Context.Contract.dll

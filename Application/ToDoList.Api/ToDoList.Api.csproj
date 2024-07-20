@@ -19,4 +19,8 @@
     <ProjectReference Include="..\..\Data\ToDoList.Data.Entity\ToDoList.Data.Entity.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 </Project>
